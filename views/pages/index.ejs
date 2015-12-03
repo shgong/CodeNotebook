@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html ng-app="sitec">
+<head>
+  <% include ../partials/header.ejs %>
+</head>
+
+  <body class="bg-dark-gray"  ng-controller="Controller as ct" ng-cloak>
+
+
+<div id="page-wrapper container">
+
+        <!--  Filters  -->
+        <div class="col-md-2 hidden-sm">
+              <% include ../partials/sidebar.ejs %>
+        </div>
+
+        <!-- Questions -->
+        <div class="col-md-3 col-sm-4 col-xs-4">
+              <% include ../partials/stack.ejs %>
+        </div>
+
+        <div class="col-md-7 col-sm-8 col-xs-8">
+            <% include ../partials/contents.ejs %>
+        </div>
+
+</div>
+
+
+
+  </body>
+</html>

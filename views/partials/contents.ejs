@@ -1,0 +1,15 @@
+
+
+
+<div id="contents">
+    <div>
+        <h2>{{currentProject.name}}</h2>
+        <p class="item-intro">{{currentProject.tag.join(', ')}}</p>
+        <!-- img class="img-responsive img-centered" ng-show="currentProject.img" ng-src={{"img/"+currentProject.img}} alt=""-->
+
+        <div ng-bind-html="TrustedHtml"></div>
+
+        <button type="button" ng-click="deleteCurrent()" class="btn btn-default">Delete</button>
+    </div>
+</div>
+

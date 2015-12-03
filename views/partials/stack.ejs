@@ -1,0 +1,23 @@
+
+    <div id="stack">
+        <ul class="stack-item" >
+            <li ng-class="{'active':IsCurrentProject(project) }"  ng-repeat="project in filteredItems = ( ct.projects | filter:searchTerm | findTag: category | orderBy:'name' )">
+                <a ng-click="SetCurrentProject(project)">
+                    <span>{{project.name}}</span>
+                </a>
+            </li>
+
+        </ul>
+
+        <!-- No results -->
+        <ul class="stack-item" ng-hide="filteredItems.length">
+            <li>
+                <a class="reset" ng-click="ResetFields()">
+                   <span>No result found. Click to show all.</span>
+                </a>
+            </li>
+        </ul>
+
+    </div>
+
+
