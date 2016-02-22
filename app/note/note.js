@@ -1,7 +1,8 @@
 'use strict';
 
 angular.module('sitec')
-.controller('Controller', ['$scope','$sce','$http', function($scope,$sce,$http){
+
+.controller('Controller', ['$scope','$sce','$http','$routeParams', function($scope,$sce,$http,  $routeParams ){
     var ct=this;   // this won't work in the http scope
     ct.projects = []
     ct.category = []
@@ -11,6 +12,9 @@ angular.module('sitec')
         ct.category=res.category;
         //$http.get('doc/projects.json').then(function(res){ct.projects = res.data;});
     });
+
+    var param = $routeParams.Id;
+    console.log(param);
 
     $scope.currentProject=ct.projects.length>0?ct.projects[0]:null;
     $scope.category="";

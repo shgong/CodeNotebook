@@ -7,17 +7,16 @@ router.use(function timeLog(req, res, next) {
   next();
 });
 // define the home page route
-router.get('/', function(req, res) {
-    res.sendFile('./app/index.html'); // load the single view file (angular will handle the page changes on the front-end)
-});
 
-router.get('/#*', function(req, res) {
-    res.sendFile('./app/index.html'); // load the single view file (angular will handle the page changes on the front-end)
-});
+
 
 router.get('/data',function(req,res){
     res.sendFile(__dirname+'/data/data.json');
 })
+
+router.get('/*', function(req, res) {
+    res.sendFile('./app/index.html'); // load the single view file (angular will handle the page changes on the front-end)
+});
 
 router.post('/add', function(req, res) {
     console.log('HTTP/POST /add');

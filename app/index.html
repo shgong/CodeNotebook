@@ -21,21 +21,24 @@
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular-route.js"></script>
 
 <script src="app.js"></script>
-<script src="components/components.js"></script>
+<script src="note/note.js"></script>
 
 </head>
 
-<body class="bg-dark-gray"  ng-controller="Controller as ct" ng-cloak>
 
 
-<div id="page-wrapper container">
+<body class="bg-dark-gray">
+
+<div ng-view></div>
+
+<div id="page-wrapper container" >
 
   <!--  Filters  -->
   <div class="col-md-2 hidden-sm">
 
         <div class="side-nav">
             <h2 class="logo text-muted">
-                NoteShade
+                Note: {{params}}
             </h2>
 
             <input type="text" ng-model="searchTerm.name" class="form-control" placeholder="Search Title">
@@ -90,9 +93,10 @@
 
 
 
+
   <!-- Contents -->
   <div class="col-md-7 col-sm-8 col-xs-8">
-
+      <div ng-view></div>
       <div id="contents">
           <div>
               <h2>{{currentProject.name}}</h2>
@@ -112,4 +116,7 @@
 
 
   </body>
+
+
+
 </html>

@@ -3,6 +3,14 @@ angular.module('sitec', [
     'ngRoute'
 ])
 
+.config(['$routeProvider', function($routeProvider) {
+  $routeProvider
+  .when('/view1', {
+    templateUrl: 'note/note.html',
+    controller: 'View1Ctrl'
+  })
+  .otherwise({redirectTo: '/home'});
+}])
 
 
 .controller('AddController', ['$scope','$http', function($scope,$http) {
