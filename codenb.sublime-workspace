@@ -1,0 +1,822 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"n",
+				"next"
+			],
+			[
+				"Findl",
+				"Findloop"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"max",
+				"maxstart"
+			],
+			[
+				"as",
+				"as_board"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"Max",
+				"MaxValueValidator"
+			],
+			[
+				"tict",
+				"tictactoe_game_do_move"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"user",
+				"user_home"
+			],
+			[
+				"first",
+				"first_player"
+			],
+			[
+				"Gma",
+				"GamesManager"
+			],
+			[
+				"boardgames",
+				"boardgames_home"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"backgo",
+				"background-image"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"keywor",
+				"keywordList"
+			],
+			[
+				"master",
+				"master_dict"
+			],
+			[
+				"keyword",
+				"keyword_set"
+			],
+			[
+				"ev",
+				"e_value"
+			],
+			[
+				"siilar",
+				"similar"
+			],
+			[
+				"Keyword",
+				"keyword_set"
+			],
+			[
+				"simila",
+				"similarPairs"
+			],
+			[
+				"similar",
+				"similar_pairs"
+			],
+			[
+				"simialr",
+				"similarity_count"
+			],
+			[
+				"similari",
+				"similarity_count"
+			],
+			[
+				"simlar",
+				"similaritybyword"
+			],
+			[
+				"keyw",
+				"keyword_set"
+			],
+			[
+				"simil",
+				"similarity_count"
+			],
+			[
+				"word",
+				"word_usage"
+			],
+			[
+				"index",
+				"index_frequency"
+			],
+			[
+				"output",
+				"outputdir"
+			],
+			[
+				"save",
+				"save_data"
+			],
+			[
+				"stop",
+				"stopwords"
+			],
+			[
+				"Board",
+				"BoardManager"
+			],
+			[
+				"Ini",
+				"InitializeList"
+			],
+			[
+				"enem",
+				"enemeyCount"
+			],
+			[
+				"instan",
+				"Instantiate"
+			],
+			[
+				"rows",
+				"rows-1"
+			],
+			[
+				"colum",
+				"columns-1"
+			],
+			[
+				"wall",
+				"wallCount"
+			],
+			[
+				"random",
+				"RandomPosition"
+			],
+			[
+				"G",
+				"GameObject"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"cheat",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"open mark",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"markdown cheat",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install pak",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax markdown",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"gfm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"set syntax: mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sytax mardown",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pak",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pakc",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"markdown ex",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Validate"
+			],
+			[
+				"json",
+				"Pretty JSON: JSON 2 XML"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"markmon",
+				"Preferences: Markmon Key Bindings – User"
+			],
+			[
+				"markmon ",
+				"Preferences: Markmon Settings – Default"
+			],
+			[
+				"markmon k",
+				"Preferences: Markmon Key Bindings – Default"
+			],
+			[
+				"list packages",
+				"Package Control: List Packages"
+			],
+			[
+				"markon",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/shgong/GitHub/CodeNotebook",
+		"/Users/shgong/GitHub/CodeNotebook/app",
+		"/Users/shgong/GitHub/CodeNotebook/app/note",
+		"/Users/shgong/GitHub/CodeNotebook/data"
+	],
+	"file_history":
+	[
+		"/Users/shgong/GitHub/CodeNotebook/app/app.js",
+		"/Users/shgong/GitHub/CodeNotebook/app.json",
+		"/Users/shgong/GitHub/CodeNotebook/index.js",
+		"/Users/shgong/GitHub/CodeNotebook/app/note/note.js",
+		"/Users/shgong/GitHub/CodeNotebook/app/index.html",
+		"/Users/shgong/GitHub/AlgorithmArchive/git/heroku.md",
+		"/Users/shgong/GitHub/Literature/portfolio-qt/views/partials/sidebar.ejs",
+		"/Users/shgong/GitHub/Literature/portfolio-qt/views/partials/contents.ejs",
+		"/Users/shgong/GitHub/Literature/portfolio-qt/public/stylesheets/main.css",
+		"/Users/shgong/GitHub/Literature/portfolio-qt/public/stylesheets/app.css",
+		"/Users/shgong/GitHub/Literature/portfolio-qt/views/partials/header.ejs",
+		"/Users/shgong/GitHub/Literature/portfolio-qt/views/partials/nav.ejs",
+		"/Users/shgong/GitHub/Literature/portfolio-qt/index.js",
+		"/Users/shgong/GitHub/Literature/portfolio-qt/README.md",
+		"/Users/shgong/GitHub/Literature/portfolio-qt/public/lang-logo.png",
+		"/Users/shgong/GitHub/Literature/portfolio-qt/views/pages/index.ejs",
+		"/Users/shgong/GitHub/Literature/portfolio-qt/.gitignore",
+		"/Users/shgong/GitHub/Literature/portfolio-qt/app.json",
+		"/Users/shgong/GitHub/Literature/venv/lib/python2.7/site-packages/django/contrib/gis/geoip/prototypes.py",
+		"/Users/shgong/GitHub/Literature/venv/lib/python2.7/site-packages/django/contrib/admin/templates/admin/popup_response.html",
+		"/Users/shgong/GitHub/prototype/01_Data/aan/release/2013/paper_outcites.txt",
+		"/Users/shgong/GitHub/CodeNotebook/Procfile",
+		"/Users/shgong/GitHub/Literature/acl-demo/README.md",
+		"/Users/shgong/GitHub/Literature/acl-demo/acl-demo/urls.py",
+		"/Users/shgong/GitHub/CodeNotebook/node_modules/ejs/test/fixtures/literal.html",
+		"/Users/shgong/GitHub/CodeNotebook/node_modules/ejs/test/fixtures/literal.ejs",
+		"/Users/shgong/GitHub/Literature/venv/lib/python2.7/site-packages/django/utils/lorem_ipsum.py",
+		"/Users/shgong/GitHub/code+/log.md",
+		"/Users/shgong/GitHub/shgong.github.io/index.html",
+		"/Users/shgong/GitHub/AlgorithmArchive/NYCares/1.md",
+		"/Users/shgong/GitHub/AlgorithmArchive/javascript/frontend.md",
+		"/Users/shgong/GitHub/AlgorithmArchive/SQL/sql.md",
+		"/Users/shgong/GitHub/AlgorithmArchive/javascript/jsexample/javascript.js",
+		"/Users/shgong/GitHub/AlgorithmArchive/.gitignore",
+		"/Users/shgong/GitHub/AlgorithmArchive/SQL/1.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/md-help.md",
+		"/Users/shgong/GitHub/CodeNotebook/route.js",
+		"/Users/shgong/GitHub/Literature/quant/quant/urls.py",
+		"/Users/shgong/GitHub/Literature/quant/quant/wsgi.py",
+		"/Users/shgong/GitHub/Literature/quant/README.md",
+		"/Users/shgong/GitHub/Literature/quant/requirements.txt",
+		"/Users/shgong/GitHub/AlgorithmArchive/git/git.md",
+		"/Users/shgong/GitHub/Literature/quant/quant/settings_local.py",
+		"/Users/shgong/GitHub/Literature/quant/quant/settings.py",
+		"/Users/shgong/GitHub/Literature/quant/hello/models.py",
+		"/Users/shgong/GitHub/Literature/quant/runtime.txt",
+		"/Users/shgong/GitHub/Literature/quant/manage.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/git/Git.html",
+		"/Users/shgong/GitHub/AlgorithmArchive/tryGit.md",
+		"/Users/shgong/GitHub/AlgorithmArchive/untitled",
+		"/Users/shgong/GitHub/Literature/acl-demo/manage.py",
+		"/Users/shgong/GitHub/Literature/quant/Procfile",
+		"/Users/shgong/GitHub/Literature/acl-demo/requirements.txt",
+		"/Users/shgong/GitHub/AlgorithmArchive/QA/qa.md",
+		"/Users/shgong/GitHub/AlgorithmArchive/Ruby/ruby.md",
+		"/Users/shgong/GitHub/AlgorithmArchive/shizhuliu/sqrt.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/shizhuliu/solution.py",
+		"/Users/shgong/GitHub/Literature/acl-demo/hello/templates/base.html",
+		"/Users/shgong/GitHub/Literature/acl-demo/hello/templates/index.html",
+		"/Users/shgong/GitHub/AlgorithmArchive/shizhuliu/1.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/questiones/068_sqrtx.py",
+		"/Users/shgong/GitHub/code+/stopwords.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/questiones/052_maximumsubarray.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/questiones/152_maximumproductsubarray.py",
+		"/Users/shgong/GitHub/Literature/venv/lib/python2.7/site-packages/django/utils/baseconv.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/questiones/078_Subsets.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/questiones/090_subsets2.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/c++/Array/3 Sum.cpp",
+		"/Users/shgong/GitHub/Literature/acl-demo/hello/static/hello/jumbotron.css",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/test.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/django/django.md",
+		"/Users/shgong/GitHub/AlgorithmArchive/c++/Array/Permutation II.cpp",
+		"/Users/shgong/GitHub/AlgorithmArchive/c++/io.cpp",
+		"/Users/shgong/GitHub/AlgorithmArchive/QA/1.py",
+		"/Users/shgong/GitHub/Literature/acl-demo/staticfiles/jumbotron.css",
+		"/Users/shgong/GitHub/Literature/acl-demo/acl-demo/wsgi.py",
+		"/Users/shgong/GitHub/Literature/python-getting-started/gettingstarted/urls.py",
+		"/Users/shgong/GitHub/Literature/python-getting-started/gettingstarted/settings.py",
+		"/Users/shgong/GitHub/Literature/python-getting-started/hello/templates/index.html",
+		"/Users/shgong/GitHub/Literature/acl-demo/acl-demo/settings.py",
+		"/Users/shgong/GitHub/Literature/acl-demo/acl-demo/settings_local.py",
+		"/Users/shgong/GitHub/Literature/acl-demo/.env",
+		"/Users/shgong/GitHub/Literature/acl-demo/Procfile",
+		"/Users/shgong/GitHub/Literature/acl-demo/runtime.txt",
+		"/Users/shgong/GitHub/prototype/01_Data/aan/release/2008/acl-metadata.txt",
+		"/Users/shgong/GitHub/prototype/code+/log.md",
+		"/Users/shgong/GitHub/Literature/python-getting-started/staticfiles/jumbotron.css",
+		"/Users/shgong/GitHub/Literature/python-getting-started/staticfiles/staticfiles.json",
+		"/Users/shgong/GitHub/prototype/01_Data/aan/papers_text/C02-1125.txt",
+		"/Users/shgong/GitHub/Literature/python-getting-started/gettingstarted/settings_local.py",
+		"/Users/shgong/GitHub/Literature/python-getting-started/hello/templates/base.html",
+		"/Users/shgong/GitHub/devilivm.github.io/Gemfile",
+		"/Users/shgong/GitHub/Literature/python-getting-started/hello/templates/db.html",
+		"/Users/shgong/GitHub/Literature/python-getting-started/hello/views.py",
+		"/Users/shgong/GitHub/Literature/python-getting-started/hello/templates/jumbotron.css",
+		"/Users/shgong/GitHub/Literature/python-getting-started/manage.py",
+		"/Users/shgong/GitHub/Literature/venv/lib/python2.7/site-packages/easy_install.py",
+		"/Users/shgong/GitHub/Literature/python-getting-started/requirements.txt",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/example/python/2.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/questiones/077_combinations.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/example/codility@offerpop.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/example/python/1.py",
+		"/Users/shgong/GitHub/Literature/literature/procfile",
+		"/Users/shgong/GitHub/code+/command.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/example/python/3.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/django/boardgames/tictactoe/templates/tictactoe/game_do_move.html",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/django/boardgames/tictactoe/models.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/django/boardgames/tictactoe/views.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/django/boardgames/tictactoe/forms.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/django/boardgames/users/views.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/django/boardgames/users/urls.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/django/boardgames/users/templates/users/signup.html",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/django/boardgames/tictactoe/templates/tictactoe/game_list_snippet.html",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/django/boardgames/tictactoe/templates/tictactoe/game_detail.html",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/django/boardgames/users/templates/users/home.html",
+		"/Users/shgong/GitHub/Documents/front-end by h5bp.md",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/questiones/026_Remove Duplicates from Sorted Array .py",
+		"/Users/shgong/GitHub/AlgorithmArchive/c++/Tree/Construct Binary Tree from Inorder and Postorder Traversal.cpp",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/django/boardgames/templates/login.html",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/django/boardgames/tictactoe/templates/tictactoe/accept_invitation.html",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/django/boardgames/tictactoe/urls.py",
+		"/Users/shgong/GitHub/devilivm.github.io/_includes/head.html",
+		"/Users/shgong/GitHub/code+/test.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/django/boardgames/tictactoe/templates/tictactoe/new_invitation.html",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/django/boardgames/boardgames/settings.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/django/boardgames/boardgames/urls.py",
+		"/Users/shgong/GitHub/AlgorithmArchive/python/django/boardgames/main/templates/main/home.html",
+		"/Users/shgong/GitHub/prototype/01_Data/aan/release/2011/author_incites_nonself.txt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"partials",
+			"hide",
+			"prototype",
+			"js",
+			"prototype",
+			"table",
+			"show",
+			"acl",
+			"acl-",
+			"acl",
+			"venv",
+			">\n",
+			"get",
+			"A00-1001",
+			"-a",
+			"git checkout",
+			"logo",
+			"lang",
+			"model",
+			"syncdb",
+			"http",
+			"base_dir",
+			"Files",
+			"# ",
+			"##",
+			"hello",
+			"Movies",
+			"get",
+			"partitioner",
+			"heartbeat",
+			"root",
+			"10",
+			"math",
+			"false",
+			"reday",
+			"-t.",
+			"\"thumb\":\"project",
+			"delete",
+			"create",
+			"html",
+			"ng-class",
+			"center",
+			"data-",
+			"findTag",
+			"click",
+			"controller",
+			".indexOf",
+			"controller",
+			"filter",
+			"side-nav",
+			"li",
+			"show",
+			"hide",
+			"search",
+			"card",
+			"-x",
+			"app.js",
+			"directive",
+			"filter",
+			"class",
+			"'='",
+			"return this",
+			"controller",
+			"directive",
+			"c88",
+			"closure",
+			"19000",
+			"similarity",
+			"print i,",
+			"print",
+			"keyword",
+			"article",
+			"keyword",
+			"master_dict",
+			"pair_list",
+			"similarity",
+			"draw",
+			"vertex_name",
+			"item_id",
+			"graph_tool",
+			"input",
+			"similarpair",
+			"similar",
+			"w",
+			"wo",
+			"outputdir",
+			"similarity_count",
+			"item_id",
+			"master_dict",
+			"size",
+			"similarity",
+			"word_usage",
+			"master_dict",
+			"mkdir",
+			"keyword_set",
+			"master_dict",
+			"1,",
+			"progress",
+			"id",
+			"inform",
+			"anguage",
+			"the",
+			"u",
+			"[-]",
+			"[+]",
+			"》",
+			"《",
+			"turn",
+			"board",
+			"sleep",
+			"random",
+			"sprite",
+			"\n",
+			"<br>",
+			"Count",
+			"\n	",
+			" \n",
+			"	public GameObject[] \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".",
+			"\"thumb\":\"thumbnail",
+			"self.master_dict",
+			"",
+			" ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/shgong/GitHub/CodeNotebook"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 147.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"portfolio-qt",
+				"GitHub/Literature/portfolio-qt/.gitignore"
+			],
+			[
+				"",
+				"GitHub/AlgorithmArchive/git/heroku.md"
+			],
+			[
+				"heroku",
+				"GitHub/AlgorithmArchive/git/heroku.md"
+			],
+			[
+				"git",
+				"GitHub/AlgorithmArchive/git/git.md"
+			],
+			[
+				"sqrt",
+				"GitHub/AlgorithmArchive/python/questiones/068_sqrtx.py"
+			],
+			[
+				"subarray",
+				"GitHub/AlgorithmArchive/python/questiones/052_maximumsubarray.py"
+			],
+			[
+				"combination",
+				"GitHub/AlgorithmArchive/python/questiones/077_combinations.py"
+			],
+			[
+				"forms.py",
+				"GitHub/AlgorithmArchive/python/django/boardgames/tictactoe/forms.py"
+			],
+			[
+				"h5bp",
+				"GitHub/Documents/front-end by h5bp.md"
+			],
+			[
+				"fr",
+				"GitHub/Documents/front-end by h5bp.md"
+			],
+			[
+				"fronte",
+				"GitHub/Documents/front-end by h5bp.md"
+			],
+			[
+				"a92-1033",
+				"prototype/01_Data/aan/papers_text/A92-1033.txt"
+			],
+			[
+				"a94-1031",
+				"prototype/01_Data/aan/papers_text/A94-1031.txt"
+			],
+			[
+				"test.py",
+				"prototype/code+/test.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/GitHub/prototype/code+/shgong.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
